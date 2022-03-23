@@ -3,3 +3,7 @@
 # cup cakes
 # pick up Ayash
 # shower Ayash
+# pickup arshi siraat
+# prepare food for dinner
+# eat dinner
+# goto bed
